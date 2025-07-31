@@ -1,0 +1,494 @@
+fileFormatVersion: 2
+guid: 8be3016eed443c1458c35b36ecd6998a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3224217283838104854
+    second: NewLogoBanner_0
+  - first:
+      213: -477215925375350044
+    second: NewLogoBanner_1
+  - first:
+      213: -7244096005039761661
+    second: NewLogoBanner_2
+  - first:
+      213: -648463186807100286
+    second: NewLogoBanner_3
+  - first:
+      213: -8482789340892686988
+    second: NewLogoBanner_4
+  - first:
+      213: -9009054288929815183
+    second: NewLogoBanner_5
+  - first:
+      213: 389646691935408687
+    second: NewLogoBanner_6
+  - first:
+      213: -5037127200979951341
+    second: NewLogoBanner_7
+  - first:
+      213: -3172412190446882430
+    second: NewLogoBanner_8
+  - first:
+      213: 5017582674724647252
+    second: NewLogoBanner_9
+  - first:
+      213: -2288175094643203541
+    second: NewLogoBanner_10
+  - first:
+      213: 3225874764981173244
+    second: NewLogoBanner_11
+  - first:
+      213: 7677839323232471311
+    second: NewLogoBanner_12
+  - first:
+      213: 4415284149521597483
+    second: NewLogoBanner_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NewLogoBanner_0
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 532
+        width: 487
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeaa72686774143d0800000000000000
+      internalID: -3224217283838104854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewLogoBanner_1
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 656
+        width: 81
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eac7dee4a69069f0800000000000000
+      internalID: -477215925375350044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewLogoBanner_2
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 766
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30757c4701dc77b90800000000000000
+      internalID: -7244096005039761661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewLogoBanner_3
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 656
+        width: 55
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28ce174da223007f0800000000000000
+      internalID: -648463186807100286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewLogoBanner_4
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 656
+        width: 46
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4751f97c904174a80800000000000000
+      internalID: -8482789340892686988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewLogoBanner_5
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 654
+        width: 84
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17501223bd869f280800000000000000
+      internalID: -9009054288929815183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewLogoBanner_6
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 656
+        width: 18
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2257b41a9d486500800000000000000
+      internalID: 389646691935408687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewLogoBanner_7
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 656
+        width: 70
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 311e121af77881ab0800000000000000
+      internalID: -5037127200979951341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewLogoBanner_8
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 655
+        width: 94
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2817b43cbe359f3d0800000000000000
+      internalID: -3172412190446882430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewLogoBanner_9
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 656
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 451fd1ebbd802a540800000000000000
+      internalID: 5017582674724647252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewLogoBanner_10
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 656
+        width: 92
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2265ebefd4ce30e0800000000000000
+      internalID: -2288175094643203541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewLogoBanner_11
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 656
+        width: 88
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfb7990e10c94cc20800000000000000
+      internalID: 3225874764981173244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewLogoBanner_12
+      rect:
+        serializedVersion: 2
+        x: 1851
+        y: 653
+        width: 73
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f090ccf7f2a2d8a60800000000000000
+      internalID: 7677839323232471311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewLogoBanner_13
+      rect:
+        serializedVersion: 2
+        x: 1930
+        y: 656
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b24c5a27a8d364d30800000000000000
+      internalID: 4415284149521597483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      NewLogoBanner_0: -3224217283838104854
+      NewLogoBanner_1: -477215925375350044
+      NewLogoBanner_10: -2288175094643203541
+      NewLogoBanner_11: 3225874764981173244
+      NewLogoBanner_12: 7677839323232471311
+      NewLogoBanner_13: 4415284149521597483
+      NewLogoBanner_2: -7244096005039761661
+      NewLogoBanner_3: -648463186807100286
+      NewLogoBanner_4: -8482789340892686988
+      NewLogoBanner_5: -9009054288929815183
+      NewLogoBanner_6: 389646691935408687
+      NewLogoBanner_7: -5037127200979951341
+      NewLogoBanner_8: -3172412190446882430
+      NewLogoBanner_9: 5017582674724647252
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,494 @@
+fileFormatVersion: 2
+guid: 35eb602d120a1734ab8ff41f952ef18c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3731339771905969481
+    second: NewLogoBannerNoBG_0
+  - first:
+      213: 8828414110503914491
+    second: NewLogoBannerNoBG_1
+  - first:
+      213: 9106871285283471121
+    second: NewLogoBannerNoBG_2
+  - first:
+      213: -8867901789933010723
+    second: NewLogoBannerNoBG_3
+  - first:
+      213: 4867881214971533853
+    second: NewLogoBannerNoBG_4
+  - first:
+      213: 8629398311903640118
+    second: NewLogoBannerNoBG_5
+  - first:
+      213: -6786043410680895003
+    second: NewLogoBannerNoBG_6
+  - first:
+      213: 9139660163275183148
+    second: NewLogoBannerNoBG_7
+  - first:
+      213: 2564613313668025884
+    second: NewLogoBannerNoBG_8
+  - first:
+      213: -7717491960250707936
+    second: NewLogoBannerNoBG_9
+  - first:
+      213: -4573575298940355638
+    second: NewLogoBannerNoBG_10
+  - first:
+      213: -3137904627249658661
+    second: NewLogoBannerNoBG_11
+  - first:
+      213: -6205288017845512009
+    second: NewLogoBannerNoBG_12
+  - first:
+      213: -5556395007644560084
+    second: NewLogoBannerNoBG_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NewLogoBannerNoBG_0
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 532
+        width: 487
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b2f1473f3e973cc0800000000000000
+      internalID: -3731339771905969481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewLogoBannerNoBG_1
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 656
+        width: 81
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfbc1aacbd3d48a70800000000000000
+      internalID: 8828414110503914491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewLogoBannerNoBG_2
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 766
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11fb6860f2b126e70800000000000000
+      internalID: 9106871285283471121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewLogoBannerNoBG_3
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 656
+        width: 55
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd00ef36e42eee480800000000000000
+      internalID: -8867901789933010723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewLogoBannerNoBG_4
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 656
+        width: 46
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1adc238c203e8340800000000000000
+      internalID: 4867881214971533853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewLogoBannerNoBG_5
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 654
+        width: 84
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63a3f5e4b08c1c770800000000000000
+      internalID: 8629398311903640118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewLogoBannerNoBG_6
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 656
+        width: 18
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e92cf3d87123d1a0800000000000000
+      internalID: -6786043410680895003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewLogoBannerNoBG_7
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 656
+        width: 70
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c245ec79e7896de70800000000000000
+      internalID: 9139660163275183148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewLogoBannerNoBG_8
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 655
+        width: 94
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1e8b6b8836579320800000000000000
+      internalID: 2564613313668025884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewLogoBannerNoBG_9
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 656
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 020d25083f5f5e490800000000000000
+      internalID: -7717491960250707936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewLogoBannerNoBG_10
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 656
+        width: 92
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acbb8295f756780c0800000000000000
+      internalID: -4573575298940355638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewLogoBannerNoBG_11
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 656
+        width: 88
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd4cab9ed5ce374d0800000000000000
+      internalID: -3137904627249658661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewLogoBannerNoBG_12
+      rect:
+        serializedVersion: 2
+        x: 1851
+        y: 653
+        width: 73
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b8945fbc6362e9a0800000000000000
+      internalID: -6205288017845512009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewLogoBannerNoBG_13
+      rect:
+        serializedVersion: 2
+        x: 1930
+        y: 656
+        width: 82
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c259799fd28b3e2b0800000000000000
+      internalID: -5556395007644560084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      NewLogoBannerNoBG_0: -3731339771905969481
+      NewLogoBannerNoBG_1: 8828414110503914491
+      NewLogoBannerNoBG_10: -4573575298940355638
+      NewLogoBannerNoBG_11: -3137904627249658661
+      NewLogoBannerNoBG_12: -6205288017845512009
+      NewLogoBannerNoBG_13: -5556395007644560084
+      NewLogoBannerNoBG_2: 9106871285283471121
+      NewLogoBannerNoBG_3: -8867901789933010723
+      NewLogoBannerNoBG_4: 4867881214971533853
+      NewLogoBannerNoBG_5: 8629398311903640118
+      NewLogoBannerNoBG_6: -6786043410680895003
+      NewLogoBannerNoBG_7: 9139660163275183148
+      NewLogoBannerNoBG_8: 2564613313668025884
+      NewLogoBannerNoBG_9: -7717491960250707936
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
